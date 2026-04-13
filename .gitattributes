@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Test data files must not be modified by git (line endings, BOM, etc.)
+# Their byte content is frozen by the integration test hashes.
+TestData/* binary
