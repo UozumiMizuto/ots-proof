@@ -61,3 +61,4 @@ npm test
 | `verifier/public/opentimestamps.min.js` | [javascript-opentimestamps](https://github.com/opentimestamps/javascript-opentimestamps) | 0.4.9 | LGPL-3.0-or-later |
 
 LGPL-3.0 のライセンス全文は [`LICENSES/opentimestamps-LGPL-3.0.txt`](./LICENSES/opentimestamps-LGPL-3.0.txt) を参照してください。
+ 
