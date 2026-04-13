@@ -44,4 +44,4 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
           git remote add gitlab git@gitlab.com:UozumiMizuto/ots-proof.git
-          git push --mirror gitlab
+          git push gitlab --prune 'refs/heads/*:refs/heads/*' 'refs/tags/*:refs/tags/*'
