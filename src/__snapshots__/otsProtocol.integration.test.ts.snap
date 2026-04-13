@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Integration — deep folder hierarchy > deep hierarchy hash is stable 1`] = `"3b75ec41580af3b8aa51fda9cec847f49e9c51bc1c9937dd9287b5c7cb2e91e2"`;
+
+exports[`Integration — empty file handling > single empty file produces a stable hash 1`] = `"96bb4283c68cfd7c835255c16fc42f22ceae40185b4fa22540506cb210ec214b"`;
+
+exports[`Integration — large number of files > 100 files produce a stable hash 1`] = `"c4d4fe1ef65a82c4f4ead63c081b5df983458cabcd443bbf2a9246e99faf966d"`;
